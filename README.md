@@ -1,55 +1,46 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ro">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
-
+    <title>Victoria lui Mazda la Le Mans</title>
 </head>
 <body>
-    <h1>Iepurele pe langa casa omului</h1>
-    <ul>
-        <li><u>Iepurele</u> Iepurele de casă a păstrat multe dintre particularitățile biologice ale rudei sale sălbatice. Asemenea acestuia, are o activitate mai intensă odată cu venirea nopții. Când are posibilitatea, chiar și iepurele de casă sapă adăposturi în pământ și acolo își stabilește culcușul</li>
-    </ul>
-    <img src="https://static9.depositphotos.com/1594920/1089/i/450/depositphotos_10897074-stock-photo-two-rabbits-in-front-of.jpg">
-    <p><strong>Iepurele este un animal deosebit de fertil și naște câte 7–8 pui, câteodată chiar mai mulți la o singură sarcină.
-Drept rezultat al domesticirii, iepurii de casă nu manifestă caracter sezonier în privința înmulțirii, însă în lunile de toamnă, în condițiile scăderii duratei zilei, se manifestă o reducere ușoară a activității sexuale. Acest fapt dă posibilitatea ca, anual, de la o singură femelă (iepuroaică) să se obțină un număr de 5–6 nașteri, însumând în medie un număr de 34–40 de pui. Coeficientul ridicat de înmulțire la iepure este dat și de perioada scurtă de gestație, proprie acestei specii, de numai 30–32 de zile.
-</strong></p>
-    <p><em>Uriasul German Alb. O alta rasa de iepuri foarte cunoscuta si apreciata de crescatorii romani este Uriasul German Alb, format din Uriasul Belgian.Este apreciat pentru frumusetea sa, in special datorita faptului ca este robust, voluminos, cu un cap rotunjit (la masculi) si avand, de cele mai multe ori, chiar culoarea alba, cu o blana stralucitoare. Urechile atinge deseori 20 cm.</em></p>
-    <table>
+    <h1 style="font-size: 24px;">Mazda 787 și derivatul său 787B la 24 de ore de la Le Mans</h1>
+    <p>Mazda 787 și derivatul său 787B sunt mașini de curse prototip sport din Grupa C care au fost dezvoltate de producătorul de automobile japonez Mazda pentru a fi utilizate în Campionatul Mondial de mașini sport, Campionatul pentru prototipuri sportive din toată Japonia și 24 de ore de la Le Mans din 1990 până în 1991, combinând un amestec de reglementări ale Fédération Internationale du Sport Automobile (FISA) Grupa C cu reglementările GTP ale Asociației Internaționale de Sporturi cu Motor (IMSA), 787-urile au fost ultimele mașini de curse cu motor rotativ Wankel care au concurat în campionatele mondiale și japoneze, folosind Mazda. motor R26B.</p>
+
+    <img src="mazda787b_image1.jpg" alt="Mazda 787B" width="400">
+    <img src="mazda787b_image2.jpg" alt="Mazda 787B" width="400">
+
+    <p><strong>Designul inițial al lui 787 a fost o evoluție a modelelor 767 și 767B care fuseseră folosite de Mazda în 1988 și 1989. Numele 787 a fost folosit în loc de 777 pentru a indica o îmbunătățire în doi pași față de 767 și, posibil, peste dificultățile de pronunție din 777 în japoneză.</strong></p>
+
+    <p><em>Cu trei ore înainte de finalul cursei de la Le Mans din ’91, mașina cu numărul 55, o Mazda colorată strident, preia conducerea plutonului. Liderul de până atunci, un Sauber Mercedes C11, a fost nevoit să intre (din nou) la standuri pentru a remedia fierberea motorului. O amară glumă a sorții pentru echipa Sauber, care la miezul nopții domina cursa cu cele trei mașini calificate. Două dintre ele au cedat, iar singura rămasă nu a reușit să ajungă din urmă Mazda 787B #55.</em></p>
+
+    <p>La finalul celor 24 de ore, britanicul Johnny Herbert trece linia de finiș. Echipa Mazdaspeed punctează nu doar un parcurs fantastic al cursei, însă aduce trofeul pentru prima dată în Japonia.</p>
+
+    <table border="1">
         <tr>
-            <th>Rasa</th>
-            <th>Greutate medie</th>
-            <th>Speranta de viata</th>
-            <th></th>
+            <th>Specificatii</th>
+            <th>Valoare</th>
         </tr>
         <tr>
-            <td>Uriasul german alb, mascul</td>
-            <td>7 kg</td>
-            <td>8-12 years</td>
-            <td><a href="https://agrointel.ro/220931/cat-traieste-un-iepure-in-functie-de-rasa/" target="_blank">Link</a></td>
+            <td>Anul debutului</td>
+            <td>1990</td>
         </tr>
         <tr>
-            <td>Berbec German </td>
-            <td>3-5 kg</td>
-            <td>7-8 years</td>
-            <td></td>
+            <td>Motor</td>
+            <td>Mazda R26B</td>
         </tr>
         <tr>
-            <td>Californian</td>
-            <td>5 kg</td>
-            <td>4-6 years</td>
-            <td></td>
+            <td>Putere</td>
+            <td>700 CP</td>
+        </tr>
+        <tr>
+            <td>Viteza maximă</td>
+            <td>360 km/h</td>
         </tr>
     </table>
 
-<h2>Cele mai adoptate rase de iepuri:</h2>
-    <ol>
-        <li>Iepurele californian</li>
-        <li>Iepurele Olandez</li>
-        <li>Iepurele neozeelandez</li>
-        <li>Iepurele leporin</li>
-        <li>Iepurele angora</li>
-    </ol>
+    <p>Pentru mai multe informații despre victoria Mazdei la Le Mans, puteți accesa <a href="https://mazda787B.com/mazda-787/mazda-lemans-win" target="_blank">acest link</a>.</p>
 </body>
 </html>
