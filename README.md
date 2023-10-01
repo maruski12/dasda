@@ -41,7 +41,7 @@
     <p><strong>Fondată în 1871, Benz & Cie., a fost una dintre cele mai importante dintre companiile fondate de Karl Benz, fiind și unul dintre cei mai vechi producători de autovehicule. DMG a fost o altă companie axată pe construcția de autovehicule, fondată de Gottlieb Daimler și Wilhelm Maybach în 1890. În 1900, Daimler a murit, iar Maybach a părăsit compania fondată de cei doi în 1890. Pe vremea aceea, cele două companii deveniseră deja rivale.</strong></p>
     <p><em>În 1924, datorită situației economice dezastruoase în care se găsea Republica de la Weimar, cele două companii rivale au intrat într-o "Înțelegere de interese mutuale", care le permitea să producă și să vândă propriile produse în mod independent și care urma să fie valabilă 75 de ani, până în anul 2000. După numai doi ani, în 1926, odată cu fuziunea oficială a companiilor Benz & Cie. și Daimler Motoren Gesellschaft, numele Mercedes-Benz a fost creat.</em></p>
 <center><a
-<img src="AdobeStock_278785883_Preview_Editorial_Use_Only.jpeg">
+<img src="https://www.mercedes-benz.com.mt/passengercars/content-pool/marketing-pool/product-page-stages/c-class-coupe-c205-stage-design/_jcr_content/par/stageelement.MQ6.0.stage.20190516105153.jpeg">
 <h2>Cele mai cautate modele:<h2>
 <ol>
     <li>Mercedes Amg<li>
