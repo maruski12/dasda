@@ -1,102 +1,42 @@
 <!DOCTYPE html>
-<html lang="en">
-
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mercedes</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-        }
-
-        h1 {
-            font-size: 36px;
-        }
-
-        p {
-            text-decoration: underline;
-        }
-
-        strong {
-            font-weight: bold;
-        }
-
-        em {
-            font-style: italic;
-        }
-
-        table {
-            border-collapse: collapse;
-            width: 100%;
-            margin-top: 20px;
-        }
-
-        table, th, td {
-            border: 1px solid black;
-        }
-
-        th, td {
-            padding: 10px;
-            text-align: left;
-        }
-
-        a {
-            color: blue;
-            text-decoration: none;
-        }
-    </style>
+    <title>Iepurele</title>
 </head>
-
 <body>
+    <h1>Iepurele</h1>
 
-    <h1>Mercedes</h1>
+    <p><u>Iepurele de casă a păstrat multe dintre particularitățile biologice ale rudei sale sălbatice. Asemenea acestuia, are o activitate mai intensă odată cu venirea nopții. Când are posibilitatea, chiar și iepurele de casă sapă adăposturi în pământ și acolo își stabilește culcușul.</u></p>
 
-    <p>Mercedes-Benz (adeseori prescurtat ca Mercedes ori doar Benz) este o marcă germană consacrată de automobile,
-        autobuze, camioane și autoutilitare care este proprietatea companiei pe acțiuni DaimlerChrysler AG (cunoscută
-        înaintea fuziunii sale cu Chrysler ca Daimler-Benz). În 2011, Mercedes-Benz era al doilea mare producător de
-        vehicule de lux la nivel mondial.</p>
+    <img src="https://r.search.yahoo.com/_ylt=AwrijVgshBll9ngP8sKJzbkF;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzM3YzA5OTk1MWZlNTUxMjhiZGE5OGI3MzkyNGYyNmNkBGdwb3MDODcEaXQDYmluZw--/RV=2/RE=1696199853/RO=11/RU=https%3a%2f%2fiepurre.blogspot.com%2fp%2fiepuri-de.html/RK=2/RS=x_snwtPWtuWW2oc9f0PtrGgFBYQ-" alt="Iepure" width="300" height="200">
 
-    <img src="url_to_random_mercedes_image.jpg" alt="Random Mercedes Image">
+    <p><strong>Iepurele este un animal deosebit de fertil și naște câte 7–8 pui, câteodată chiar mai mulți la o singură sarcină.</strong></p>
 
-    <strong>Fondată în 1871, Benz & Cie., a fost una dintre cele mai importante dintre companiile fondate de Karl
-        Benz, fiind și unul dintre cei mai vechi producători de autovehicule. DMG a fost o altă companie axată pe
-        construcția de autovehicule, fondată de Gottlieb Daimler și Wilhelm Maybach în 1890. În 1900, Daimler a murit,
-        iar Maybach a părăsit compania fondată de cei doi în 1890. Pe vremea aceea, cele două companii deveniseră deja
-        rivale.</strong>
+    <p><em>Drept rezultat al domesticirii, iepurii de casă nu manifestă caracter sezonier în privința înmulțirii, însă în lunile de toamnă, în condițiile scăderii duratei zilei, se manifestă o reducere ușoară a activității sexuale. Acest fapt dă posibilitatea ca, anual, de la o singură femelă (iepuroaică) să se obțină un număr de 5–6 nașteri, însumând în medie un număr de 34–40 de pui. Coeficientul ridicat de înmulțire la iepure este dat și de perioada scurtă de gestație, proprie acestei specii, de numai 30–32 de zile.</em></p>
 
-    <em>În 1924, datorită situației economice dezastruoase în care se găsea Republica de la Weimar, cele două
-        companii rivale au intrat într-o "Înțelegere de interese mutuale", care le permitea să producă și să vândă
-        propriile produse în mod independent și care urma să fie valabilă 75 de ani, până în anul 2000. După numai doi
-        ani, în 1926, odată cu fuziunea oficială a companiilor Benz & Cie. și Daimler Motoren Gesellschaft, numele
-        Mercedes-Benz a fost creat.</em>
-
-    <table>
+    <table border="1">
         <tr>
-            <th>Model</th>
-            <th>Cai Putere</th>
-            <th>An Fabricatie</th>
+            <th style="display: none;">Rasa</th>
+            <th style="display: none;">Greutate Medie</th>
+            <th style="display: none;">Speranța de Viață</th>
         </tr>
         <tr>
-            <td>AMG GT</td>
-            <td>xxx</td>
-            <td>xxxx</td>
+            <td>Californian</td>
+            <td>...</td>
+            <td>...</td>
         </tr>
         <tr>
-            <td>S Maybach</td>
-            <td>xxx</td>
-            <td>xxxx</td>
+            <td>Silver French</td>
+            <td>...</td>
+            <td>...</td>
         </tr>
         <tr>
-            <td>G Class</td>
-            <td>xxx</td>
-            <td>xxxx</td>
+            <td>The Giant White German</td>
+            <td>...</td>
+            <td>...</td>
         </tr>
     </table>
 
-    <a href="https://www.another-site.com">Link to Another Site</a>
-
+    <p>Pentru mai multe informații despre iepuri, vizitați pagina <a href="https://ro.wikipedia.org/wiki/Iepure#Iepurele_de_cas%C4%83">Iepurele de casă pe Wikipedia</a>.</p>
 </body>
-
 </html>
